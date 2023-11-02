@@ -22,7 +22,7 @@ article {
     border: 3px solid #615770; 
     border-radius: 5px;
     padding: 20px; 
-    background-image: url('./images/background.png');
+    background-image: url('../images/background.png');
 }
 
 .lead h2{
@@ -62,7 +62,7 @@ h2 {
     color: #615770;
     font-weight: normal;
     border-bottom: 3px solid #615770;
-    background-image: url('./images/logo.png'); 
+    background-image: url('../images/logo.png'); 
     background-repeat: no-repeat;
     background-position: center left;
     padding-left: 50px; 
